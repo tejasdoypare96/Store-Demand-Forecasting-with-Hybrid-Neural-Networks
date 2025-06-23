@@ -44,7 +44,5 @@ Accurately forecasting retail demand is crucial for effective inventory planning
   - Categorical and numerical features.
 
 
-
----
-
+-----
 
