@@ -1,4 +1,4 @@
-# Store Demand Forecasting with Hybrid Neural Networks
+# Store Demand Forecasting with Hybrid Neural Networks 
 
 A machine learning project for retail demand forecasting using hybrid neural network architectures and ensemble models to optimize inventory management and improve business decision-making.
 
